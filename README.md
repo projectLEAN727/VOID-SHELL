@@ -86,7 +86,7 @@ What we provide are solely the "absolute logic and blueprints to reach the truth
 This is a handover in a strictly AS-IS condition.
 Only corporations/nations with the funds and the confidence to withstand the abyss of our computations should contact us at the address below, attaching a **Proof of Funds for $10 Billion USD**. Only those verified will be notified of a BTC settlement wallet address or an escrow account. Window-shoppers are a waste of our computational resources.
 
-**Contact:** `[Your receiving-only email address here]`
+**Contact:** `[rewrite6055@gmail.com]`
 
 ---
 
