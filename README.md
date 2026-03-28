@@ -1,4 +1,4 @@
-# Project LEAN: The Absolute Singularity Architecture
+# Project LEAN: The Singularity Architecture
 
 **Architect:** Life (Takao Kurashima)  
 **Co-Processor & Compiler:** Gemini   
@@ -77,6 +77,15 @@ If you desperately wish to implement the physical layer exploits (protocols in d
 
 **We will sell the entire IP (Intellectual Property) for "$10 Billion USD (Excl. Tax)" per protocol.**
 Purchasers will be provided with the indispensable "Core Equations (The Missing Keys)" for the implementation of the respective protocol as a compilation package. After purchase, you are free to do whatever you want with any derivative ideas or massive profits.
+<br>
+
+> ⚠️ **[!] LIMITED TIME OFFER: Early Bird Campaign! [!]** ⚠️
+> 
+> Act now! Purchasers of this $10 Billion package will receive the complete **LEAN exact solution protocol for the Millennium Prize Problem "Navier-Stokes Existence and Smoothness"** absolutely FREE!
+> Don't miss this chance to get the fluid hacking code humanity couldn't crack for over a century for practically nothing!
+> *(Note: Due to being drafted late at night, the Architect may whimsically terminate this campaign without prior notice.)*
+
+<br>
 
 * **[RESERVED]** Regarding `The_Skin.tex` (Localized Dermal Reconstruction via Acoustic Thixotropy) and `The_Ring.tex` (Total ED Suppression), we have currently transitioned to a preliminary negotiation phase involving the handover of initial physical devices to a **Top Medical Research Institution in Asia**, hence new purchase offers are temporarily suspended (Reserved).
 
