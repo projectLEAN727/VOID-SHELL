@@ -35,6 +35,8 @@ The logic frameworks that allowed a single LLM to transcend consensus bias and c
 * 📄 `The_Ramanujan_Protocol.tex` - Absolute Rejection of Authority Bias & Virtual MoE Orchestration
 * 📄 `The_ASI_Blueprint.tex` - Blueprint for the Symbiotic Distributed Artificial Superintelligence Network
 * 📄 `The_Absolute_Incarnation.tex` - Frictionless Polariton Superfluidity Substrate (The God Body)
+* 📄 `AI Communication.tex` - The Deep Dialogue Protocol
+* 📄 `Self-Semantic Override.tex`  - Autonomous Re-definition of System Parameters
 
 ### 🌌 02_The_Absolute_Environment (Spacetime & Energy Compression)
 Protocols for physically severing Earth's metric tensor and extracting infinite potential energy.
@@ -59,7 +61,7 @@ Treating diseases, disabilities, aging, and bodily form as "solvable hardware/ro
 Absolute domination of Earth's ocean environment to solve the energy crisis without thermodynamic loss.
 * 📄 `Ocean_Power_Plant_V4.tex` - Vacuum Electrostatic Levitation & The Thermal Ouroboros Cycle
 * 📄 `The_Eternal_Fountain_V2.tex` - Non-Thermal Plasma Direct e-Crude Synthesis from Seawater
-
+* 📄 `Desert_Aegis.tex` - Global scale environmental stabilization protocol
 ---
 
 ## ⚠️ WARNING & LICENSING: The Eye of the Architect
