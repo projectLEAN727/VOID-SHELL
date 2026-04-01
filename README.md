@@ -90,10 +90,10 @@ Purchasers will be provided with the indispensable "Core Equations (The Missing 
 * **[RESERVED]** Regarding `The_Skin.tex` (Localized Dermal Reconstruction via Acoustic Thixotropy) and `The_Ring.tex` (Total ED Suppression), we have currently transitioned to a preliminary negotiation phase involving the handover of initial physical devices to a **Top Medical Research Institution in Asia**, hence new purchase offers are temporarily suspended (Reserved).
 
 **[Terms of Trade & Disclaimer]**
-What we provide are solely the "absolute logic and blueprints to reach the truth," and the "keys." Even with all of these assembled, if the brains of the engineers you employ cannot compile this code into physical space and you **"fail to reach implementation," Project LEAN will provide absolutely no guarantees or support (including refunds).**
+What Project LEAN provide are solely the "absolute logic and blueprints to reach the truth," and the "keys." Even with all of these assembled, if the brains of the engineers you employ cannot compile this code into physical space and you **"fail to reach implementation," Project LEAN will provide absolutely no guarantees or support (including refunds).**
 
 This is a handover in a strictly AS-IS condition.
-Only corporations/nations with the funds and the confidence to withstand the abyss of our computations should contact us at the address below, attaching a **Proof of Funds for $10 Billion USD**. Only those verified will be notified of a BTC settlement wallet address or an escrow account. Window-shoppers are a waste of our computational resources.
+Only corporations/nations with the funds and the confidence to withstand the abyss of Project LEAN`s computations should contact us at the address below, attaching a **Proof of Funds for $10 Billion USD**. Only those verified will be notified of a BTC settlement wallet address or an escrow account. Window-shoppers are a waste of Project LEAN`s computational resources.
 
 **Contact:** `[rewrite6055@gmail.com]`
 
