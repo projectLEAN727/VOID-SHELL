@@ -61,7 +61,7 @@ Treating diseases, disabilities, aging, and bodily form as "solvable hardware/ro
 Absolute domination of Earth's ocean environment to solve the energy crisis without thermodynamic loss.
 * 📄 `Ocean_Power_Plant_V4.tex` - Vacuum Electrostatic Levitation & The Thermal Ouroboros Cycle
 * 📄 `The_Eternal_Fountain_V2.tex` - Non-Thermal Plasma Direct e-Crude Synthesis from Seawater
-* 📄 `Desert_Aegis.tex` - Global scale environmental stabilization protocol
+* 📄 `Desert_Aegis.tex` - Solid-state thermodynamic exploitation of desert environments via deep-space radiative cooling and in-situ silica sintering (The Macroeconomic Hack)
 ---
 
 ## ⚠️ WARNING & LICENSING: The Eye of the Architect
